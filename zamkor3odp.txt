@@ -1,0 +1,39 @@
+3.1 a = 60°
+3.2 f= 04
+3.3 W = 474J
+3.4 b) F1 = 125,7N; F2 = 88,6N; c) W1/W2 = 1,42
+3.5 F = 70N
+3.6 W = 211,68 kJ
+3.7 a = 2 m/s2
+3.8 W = 345,8 J
+3.9 a) Wa = 10 J b) Wb = 0 c) Wc = 10J d) Wd = -1,7 J e) We = 8,3 J
+3.10 f = 0,35
+3.11 W = 3150 kJ
+3.12 Fc = 12 kN
+3.13 t = 22,9s
+3.14 a) W = 5,85 MJ; P = 39,0 kW b) P(t) = 400(100W + 1W/s*t); P(100s) = 80 kW c) W1/W = 47,5%; W2/W = 2,5%; W3/W = 50%
+3.15 a) 0 = va = vg < vb = vc < ve < vd < vf b) w punkcie B (vb = vc); w punkcie B i w punkcie leżącym na lewej części toru, na takiej samej wysokości c) B,C,D,E,F
+3.16 h = 1,8 m
+3.17 v = 56,6 m/s
+3.18 v = 1 m/s
+3.19 Ek = 17,6 J; v = 14,7 m/s
+3.20 v = 4 m/s
+3.21 h(max) = 2,265km; v = 300 m/s
+3.22 a) wzrosła o 0,1 J; b) wzrosła o 0,2 J
+3.23 a) wzorsła o 0,1 J; b) Energia kinetyczna wzrosła o 0,05 J, a energia potencjalna zmalała o 0,15 J
+3.24 c) v = √gh; d) nie
+3.25 v = 1,6 m/s
+3.26 N = 3N
+3.27 a(max) = 49,1°; b) (delta)N = 40N
+3.28 a) vb = 11,18 m/s; va = 10,72 m/s; vc = 11,62 m/s; vd = 10,86 m/s; b) Fdoś.A = 0,92N; Fdoś.B = 1,00N; FdośC = 1,08N; FdośD = 0,94N; FsA = 0,88N; FsB = 1,00N; FsC = 1,04N; FsD = 0,91N
+3.29 Brak odpowiedzi
+3.30 v = 4,3 m/s
+3.31 a) v = 1 m/s; b) v = 2 m/s
+3.32 h = 31,25 cm; a = 52,5°
+3.33 a) v0 = 1,6 m/s; b) v = 1,2 m/s
+3.34 s = 35cm; v = 1,6 m/s
+3.35 v = 6,4 m/s
+3.36 W(oporu) = -0,7 J
+3.37 a) Fśr = 3,75 kN; b) t = 1,6 ms
+3.38 a) s = 1,24 cm; b) t = 0,1s
+ 

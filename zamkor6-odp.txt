@@ -1,0 +1,35 @@
+6.1 ε = 3,14 rad/s2, n = 16
+6.2 ε = 0,67 rad/s2, ω = 8  rad/s
+6.3 n = 6000
+6.4 ε = 50 rad/s2, n = 99,5
+6.5 a) I: ωśr = 9,5 rad/s; II: ωśr = 10 rad/s
+6.6 ω = 20 rad/s
+6.7 a) I1 = 16 * 10^-7 kgm2; b) I2 = 5 * 10^-6 kgm2; c) I3 = 11,52 * 10^-7 kgm2
+6.8 a) I1 = 8 * 10^-7 kgm2; b) I2 = 6 * 10^-7 kgm2; c) I3 = 4 * 10^-7 kgm2 
+6.9 a) I1 = 5,8 * 10^-2 kgm2; b) I2 = 8,4 * 10^-2 kgm2; c) I3 = 0,4 kgm2  
+6.10 I1/I2 = 1,5
+6.11 a) I = (50,8 + 16/3)mpR2; b) I = (82,6 + 4/3)mpR2
+6.12 I = 1/2MR2 - 4M * r2/R2(r2/2 + l2)
+6.13 M = 3,6 Nm
+6.14 M = 0,38 Nm
+6.15 ε = 100 rad/s2; a = 2 m/s2
+6.16 a) a = 6,67 m/s2; b) Fn = 2N
+6.17 c) a = 2,5 m/s2; d) ε = 25 rad/s2; e) N1 = 2,5N; N2 = 3N
+6.18 c) a = 4/9 m/s2; d) ε = 80/9 rad/s2; e) N1 = 43/90N; N2 = 7/18N
+6.19 (delta)Fn = 0,51N
+6.20 a) I = R2m((gt2/2h) - 1); b) I = 9,42 * 10(-2)kgm2; c) tmin = 15s; Imin = 8,82 * 10(-2) kgm2; tmax = 16s; Imax = 10,04 * 10(-2) kgm2; (delta)I = 0,61 * 10(-2) kgm2; zatem I = (9,42 ± 0,61) * 10(-2) kgm2; (delta)I/I = 6,5%
+6.21 v(rurki) = 8 Hz; v(walca) = 9,2 Hz; v(kuli) = 9,5 Hz
+6.22 a) a = 1,71 m/s2; b) T = 0,17N, fs ≥ 0,182
+6.23 ak/aw = 15/14; tw/tk = 1,035
+6.24 h = 1,75 m 
+6.25 a) siła tarcia statycznego jest zwrócona ku górze równi, gdyż tylko tak zwrócona siła ma moment hamujący ruch obrotowy kuli względem osi przechodzącej przez jej środek. b) a = 1,24 m/s2; T = 0,124 N; c) i d) hmax = 0,63m
+6.26 a) siła tarcia jest zwrócona w prawo, gdyż jest to jedyna siła, która nadaje walcowi przyspiesznie w ruchu postępowym; b) a = 1,7 m/s2; c) fs ≥ 2/15 = 0,13; d) Nie, wartość przyspiesznia końca linki jest dwa razy większa od wartości przyspiesznia środka walca.
+6.27 b) a = 1,25 m/s2; Fn = 15/8 N = 1,9 N; c) fs ≥ 2/19  = 0,11
+6.28 v = 11 Hz
+6.29 a) wzrośnie 16 razy; b) wzrośnie 25 razy
+6.30 m1 = (2I2(ω2 - ω3))/ r2(ω3 + ω1)
+6.31 a) wzrośnie 1,8 razy; b) nie zmieni się
+6.32 a) v = 2,5 1/s; b) zmaleje około 2 razy
+6.33 a) ω = 2/15 rad/s = 0,13 rad/s; b) t = 23,6s; c) a = PI; d) ω = 4/15 rad/s
+6.34 a) ω0 = 9 rad/s; b) |(delta)Ek| = 0,96 J; |(delta)Ek|/Ek = 96%
+6.35 a) ω = √8g/3R; b) vp = √6gR; vq = √10/3*gR; vs = √2/3 * gR; c) 0°; około 63,4°; 0° 

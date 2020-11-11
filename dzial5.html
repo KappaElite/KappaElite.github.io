@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Zadania</title>
+    <link rel="stylesheet" type="text/css" href="dzial5.css" />
+
+
+
+
+
+
+</head>
+
+<body>
+    <div id="full">
+
+
+        <div id="chuj">
+            <p id=zadanie></p>
+            <button onclick="odpo('todp')" id="podp">Odpowiedź</button>
+            <p id="todp"></p>
+            <div ><img id="obrazek" src=""/></div>
+
+        </div>
+
+
+
+
+
+
+        <div id="chuj">
+
+            <ul class="lista" id="lista1">
+                <li><button id="0" onclick="bajco(this.id)">5.1</button></li>
+                <li><button id="1" onclick="bajco(this.id)">5.2</button></li>
+                <li><button id="2" onclick="bajco(this.id)">5.3</button></li>
+                <li><button id="3" onclick="bajco(this.id)">5.4</button></li>
+                <li><button id="4" onclick="bajco(this.id)">5.5</button></li>
+                <li><button id="5" onclick="bajco(this.id)">5.6</button></li>
+                <li><button id="6" onclick="bajco(this.id)">5.7</button></li>
+                <li><button id="7" onclick="bajco(this.id)">5.8</button></li>
+                <li><button id="8" onclick="bajco(this.id)">5.9</button></li>
+                <li><button id="9" onclick="bajco(this.id)">5.10</button></li>
+                <li><button id="10" onclick="bajco(this.id)">5.11</button></li>
+                <li><button id="11" onclick="bajco(this.id)">5.12</button></li>
+                <li><button id="12" onclick="bajco(this.id)">5.13</button></li>
+                <li><button id="13" onclick="bajco(this.id)">5.14</button></li>
+                <li><button id="14" onclick="bajco(this.id)">5.15</button></li>
+                <li><button id="15" onclick="bajco(this.id)">5.16</button></li>
+                <li><button id="16" onclick="bajco(this.id)">5.17</button></li>
+                <li><button id="17" onclick="bajco(this.id)">5.18</button></li>
+                <li><button id="18" onclick="bajco(this.id)">5.19</button></li>
+                <li><button id="19" onclick="bajco(this.id)">5.20</button></li>
+                <li><button id="20" onclick="bajco(this.id)">5.21</button></li>
+
+
+
+
+
+            </ul>
+            <ul class="lista" id="lista2">
+                <li><button id="21" onclick="bajco(this.id)">5.22</button></li>
+                <li><button id="22" onclick="bajco(this.id)">5.23</button></li>
+                <li><button id="23" onclick="bajco(this.id)">5.24</button></li>
+                <li><button id="24" onclick="bajco(this.id)">5.25</button></li>
+                <li><button id="25" onclick="bajco(this.id)">5.26</button></li>
+                <li><button id="26" onclick="bajco(this.id)">5.27</button></li>
+                <li><button id="27" onclick="bajco(this.id)">5.28</button></li>
+                <li><button id="28" onclick="bajco(this.id)">5.29</button></li>
+                <li><button id="29" onclick="bajco(this.id)">5.30</button></li>
+                <li><button id="30" onclick="bajco(this.id)">5.31</button></li>
+                <li><button id="31" onclick="bajco(this.id)">5.32</button></li>
+                <li><button id="32" onclick="bajco(this.id)">5.33</button></li>
+                <li><button id="33" onclick="bajco(this.id)">5.34</button></li>
+                <li><button id="34" onclick="bajco(this.id)">5.35</button></li>
+                <li><button id="35" onclick="bajco(this.id)">5.36</button></li>
+                <li><button id="36" onclick="bajco(this.id)">5.37</button></li>
+                <li><button id="37" onclick="bajco(this.id)">5.38</button></li>
+                <li><button id="38" onclick="bajco(this.id)">5.39</button></li>
+                <li><button id="39" onclick="bajco(this.id)">5.40</button></li>
+                <li><button id="40" onclick="bajco(this.id)">5.41</button></li>
+                <li><button id="41" onclick="bajco(this.id)">5.42</button></li>
+
+                
+                
+
+
+
+
+            </ul>
+            
+            <ul class="lista" id="lista3">
+                <li><button id="42" onclick="bajco(this.id)">5.43</button></li>
+                <li><button id="43" onclick="bajco(this.id)">5.44</button></li>
+                <li><button id="44" onclick="bajco(this.id)">5.45</button></li>
+                <li><button id="45" onclick="bajco(this.id)">5.46</button></li>
+                <li><button id="46" onclick="bajco(this.id)">5.47</button></li>
+                <li><button id="47" onclick="bajco(this.id)">5.48</button></li>
+                <li><button id="48" onclick="bajco(this.id)">5.49</button></li>
+                <li><button id="49" onclick="bajco(this.id)">5.50</button></li>
+                <li><button id="50" onclick="bajco(this.id)">5.51</button></li>
+                <li><button id="51" onclick="bajco(this.id)">5.52</button></li>
+                <li><button id="52" onclick="bajco(this.id)">5.53</button></li>
+                
+
+                
+                
+
+
+
+
+            </ul>
+
+
+            
+
+            <script type="text/javascript">
+                var b;
+                
+                
+                                
+                
+
+                function bajco(eid) {
+
+                    var client = new XMLHttpRequest();
+                    b=eid;
+                    
+                    
+                    var e = document.getElementById("todp");
+                    if (e.style.display == 'block')
+                        e.style.display = 'none';
+                    
+                    
+                    
+                    
+                   
+                    client.open('GET', '/zamkor5-zadania.txt');
+                    client.onreadystatechange = function() {
+                        if (client.responseText != '') {
+                            var txt = client.responseText.split("\n");
+                            
+                            document.getElementById("zadanie").innerHTML = txt[eid];
+                            
+
+                        }
+                        
+                        
+                    }
+                    
+                    client.send();
+                    
+                    odps();
+                    picture();
+                    
+                }
+
+                function odpo(id) {
+                    var e = document.getElementById(id);
+                    if (e.style.display == 'block')
+                        e.style.display = 'none';
+                    else
+                        e.style.display = 'block';
+                }
+
+                function odps() {
+                   
+                    
+                    var cos = b;
+                    
+                    var client1 = new XMLHttpRequest();
+                    client1.open('GET', '/zamkor5odp.txt');
+                    client1.onreadystatechange = function() {
+                        if (client1.responseText != '') {
+                            var tdt = client1.responseText.split("\n");
+
+                            document.getElementById("todp").innerHTML = tdt[cos];
+
+
+                        }
+                    }
+                    
+                    client1.send();
+                    
+                }
+                
+                function picture()
+                {
+                    var id = b;
+                    var client2 = new XMLHttpRequest();
+                    
+                    client2.open('GET', '/dzial5-o.txt');
+                    client2.onreadystatechange = function() {
+                        if (client2.responseText != '') {
+                            var tzt = client2.responseText.split("\n");
+                            var op = tzt[id];
+                            var op1 = "Brak";
+                            var op2 = op.localeCompare(op1);
+                            if(op2 == -1)
+                            {
+                                let x = id + ".png";
+                                //alert("zamkor1rysunki/"+x);
+                                document.getElementById("obrazek").src="zamkor5rysunki/"+x;
+                            }
+                            else
+                            {
+                              document.getElementById("obrazek").src="";
+                            }
+                           
+
+
+                        }
+                    }
+                    
+                    client2.send();
+                    
+                    
+                }
+
+            </script>
+
+
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+</body>
+
+</html>

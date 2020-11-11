@@ -1,0 +1,60 @@
+body
+{
+    background-image: url(pictures/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+#header
+{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 85px;
+    color:cornflowerblue;
+    font-weight: 350;
+    
+    text-shadow: -0.75px 0 black, 0 0.75px black, 0.75px 0 black, 0 -0.75px black;
+    transition: color 0.5s;
+    font-family: Tahoma;
+    
+    
+}
+div>span:hover
+{
+    
+    
+    color:darkgrey;
+    cursor: pointer;
+
+}
+.photos
+{
+    padding: 80px;
+    margin-top: 140px;
+    text-align: center;
+}
+
+#zamkor
+{
+    height: 403px;
+    float: right;
+    
+   
+}
+#podr
+{
+    height: 403px;
+    float: left;
+    
+    
+}
+#hyla
+{
+    margin: auto;
+    
+  
+}
+.centrowanie
+{
+    display:inline-block;
+}

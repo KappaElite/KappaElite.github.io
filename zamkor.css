@@ -1,0 +1,82 @@
+body {
+    background-image: url(pictures/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+#header {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 85px;
+    color: cornflowerblue;
+    font-weight: 350;
+
+    text-shadow: -0.75px 0 black, 0 0.75px black, 0.75px 0 black, 0 -0.75px black;
+    transition: color 0.5s;
+    font-family: Tahoma;
+    
+
+
+}
+
+div > span:hover {
+
+
+    color: darkgrey;
+    cursor: pointer;
+
+}
+
+#Spis {
+    text-align: center;
+    margin-top: 160px;
+    font-family: Tahoma;
+    font-size: 25px;
+    padding-bottom:100px;
+    color: black;
+}
+
+
+
+#chapters {
+    text-align: center;
+    
+    
+}
+
+.lista{
+    list-style-type: none;
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Tahoma;
+    font-size: 19px;
+    
+    
+    
+}
+.lista > a
+{
+    text-decoration: none;
+    color: cornflowerblue;
+    
+}
+.lista > a:hover
+{
+    color : darkgray;
+}
+#button
+{
+    border-top-left-radius: 25px;
+    
+}
+#container
+{
+    
+}
+
+
+
+
+

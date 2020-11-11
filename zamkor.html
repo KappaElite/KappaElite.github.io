@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Zbiór Zamkor</title>
+    <link rel="stylesheet" type="text/css" href="zamkor.css" />
+
+
+
+
+
+
+</head>
+
+<body>
+
+    <div id="container">
+        <div id="header"><span>Spis treści</span></div>
+        <button id="button" onclick="myFunction()">Powrót</button>
+
+        <script>
+            function myFunction() {
+                location.replace("index.html")
+            }
+
+        </script>
+
+
+
+        <div id="Spis"><span>Wybierz Temat</span>
+
+
+
+
+
+        </div>
+
+
+
+        <div id="chapters">
+
+            <li class="lista"><a id="1dzial" href="#" onclick="exercises(this.id)">Opis ruchu postępowego</a></li>
+            <li class="lista"><a id="2dzial" href="#" onclick="exercises(this.id)">Siła jako przyczyna zmian ruchu</a></li>
+
+            <li class="lista"><a id="3dzial" href="#" onclick="exercises(this.id)">Praca, moc, energia mechaniczna</a>
+
+
+
+
+            </li>
+            <li class="lista"><a id="4dzial" href="#" onclick="exercises(this.id)">Zjawiska hydrostatyczne</a>
+
+
+
+
+            </li>
+            <li class="lista"><a id="5dzial" href="#" onclick="exercises(this.id)">Pole grawitacyjne</a>
+
+
+
+
+            </li>
+            <li class="lista"><a id="6dzial" href="#" onclick="exercises(this.id)">Ruch postępowy i obrotowy bryły sztywnej</a>
+
+
+
+            </li>
+
+
+
+
+
+
+
+        </div>
+
+
+        <script>
+            var b;
+
+            function exercises(cos) {
+                b = cos;
+                console.log(b);
+                if (b.startsWith("1")) {
+                    location.replace("opis_ruchu.html");
+                } else if (b.startsWith("2")) {
+                    location.replace("kinemtyka.html");
+                }
+                else if(b.startsWith("3"))
+                {
+                    location.replace("dzial3.html");
+                }
+                else if(b.startsWith("4"))
+                {
+                    location.replace("dzial4.html");
+                }
+                else if(b.startsWith("5"))
+                {
+                    location.replace("dzial5.html");
+                }
+                else if(b.startsWith("6"))
+                {
+                    location.replace("dzial6.html");
+                }
+
+
+            }
+
+        </script>
+
+    </div>
+
+
+
+</body>
+
+</html>

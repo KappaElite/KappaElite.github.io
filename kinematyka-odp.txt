@@ -1,0 +1,75 @@
+2.1 F = 500 N
+2.2 ms = 16 kg
+2.3 Fo/Ff=2
+2.4 m = 1,5 kg
+2.5 F= 7,6 N
+2.6 t= 5 s; s= 10m
+2.7 Fop.=4 N
+2.8 d) (delta)m = 60 kg
+2.9 a) a = g/n przyspieszenie zwrócone w górę  b) a = (n-1)/n *g, przyspieszenie zwrócone w dół
+2.10 Fn = 240 N
+2.11 c) Na turystę działają siły: ciężar turysty = 600 N (Ziemia), siła sprężystości = 606 N (lina), na linę działają siły: ciężar liny = 15 N (Ziemia), siła naciągu = 606 N (turysta), siła równoważąca całkowitą siłę naciągu liny = 621 N (skała)
+2.12 b) a = 1,5 m/s2; FN = 0,375 N
+2.13 m1 = 45 dag; m2 = 30 dag; Fn = 2,58 N
+2.14 a) a = 2 m/s2; b) 1 — tak, 2 — tak, 3 — nie; c) FN = 0,4 N
+2.15 a) a = 2 m/s2; c) Fn1 = 1,2 N; Fn2 = 2,4 N
+2.16 t= 1,2s
+2.17 F = 1,98 N
+2.18 a = 2,5 m/s'; Fn = 3,75 N
+2.19 t = 0,16 s
+2.20 b) vk = 4 m/s
+2.21 t = 4,4 s
+2.22 l = 1,35 m
+2.23 s = 1,8m
+2.24 a) v = 0,5 m/s; b) s = 2,5 cm
+2.25 v = 2,48 km/s
+2.26 |(delta, wektor) p = 0,6kg*m/s|
+2.27 v = 2,5 m/s
+2.28 m = 708 kg
+2.29 v1 = 2 m/s
+2.30 m = 75 g
+2.31 v = 0,43 m/s
+2.32 a) vx = —0,1 m/s; v = 0,1 m/s; b) przeciwnie do zwrotu osi x
+2.33 v1 = 7,6 m/s; v2 = 4,2 m/s
+2.34 a) v1' = 4 m/s; v2' = O m/s; b) v1' = 4 m/s; v2' = 2,5 m/s
+2.35 fs —fk = 0,1
+2.36 fk = 0,225
+2.37 fk = 0,15
+2.38 t = 0,8 s; s = 80 cm
+2.39 a) v1 = 3,0 m/s; v2 = 2,3 m/s; v3 = 1,1 m/s; pchnięcie jest potrzebne w trzecim przypadku b) Mógłby wejść tylko w trzeciej parze butów.
+2.40 s = 22,7m
+2.41 t = 1,85 s
+2.42 a = 3,4 m/s2
+2.43 a = 0,13 m/s2
+2.44 a) a = F/(M+m); d) a = F/(M+m); T = M/(M+m) * F
+2.45 a = 0,5 m/s2; Fn = 2,75 N
+2.46 v = 1,5 m/s
+2.47 a) Klocek zatrzyma się (całkowita droga przebyta przez klocek jest równa 0,96 m)  b) d = 0,04 m; c) t2 = 0,4 s
+2.48 a) Klocek nie zatrzyma się, bo odległość od bloczka jest zbyt mała. b) v = 0,5 m/s; c) t2 = 0,16 s
+2.49 pierwszy rysunek t1 = 0,48 s; drugi rysunek t2 = 0,84 s
+2.50 f = 0,23       
+2.51 f = 0,35  b) Układ klocków będzie spoczywał; wartość siły tarcia spoczynkowego Ft = 0,27 N, zwrot ku dołowi równi
+2.52 Siła ciężkości pudełka nie leży w płaszczyźnie prostopadłej do krawędzi rynny.  
+2.53 R= 3 m
+2.54 T1 = T2/3
+2.55 v= 0,5 Hz      
+2.56 v = 33,6 km/h
+2.57 a = 30°
+2.58 a) Fdoś = 1 N; v = 3,5 m/s; b) v/vmin = 1,4
+2.59 b) r = 0,52 m; v = 3 m/s c) Fdoś = 0,87 N; Fs = 1 N                                    
+2.60 (delta)N = 900 N; v = 62,4 km/h
+2.61 s = 4 m; ap > 6 m/s2
+2.62 a) W chwili początkowej na monetę (w układzie odniesienia związanym z kartką) będzie działała siła wypadkowa dwóch sił: bezwładności i tarcia statycznego; jest ona zwrócona przeciwnie do ruchu kartki, więc moneta zostanie wprawiona w ruch i uzyska względem kartki przyspieszenie. c) a1= 0,6 m/s2; a2 = 0,4 m/s2; a1 jest zwrócone przeciwnie do prędkości kartki, a2 – zgodnie d) Nie. Uzasadnienie: siła wypadkowa działająca na monetę w układzie stołu ma zwrot zgodny z prędkością kartki. 
+2.63 a) tn = 0,63 s; b) tin = 0,63 s; c) (delta)t = 0,14 s
+2.64 a) t = 0,41 s; b) t = 0,41 s c) Czas spadania kluczy w windzie jadącej z przyspieszeniem będzie krótszy o (delta)t = 0,08 s.
+2.65 a) y(x) = g/a * x = 2,5x, jest to równanie prostej b) aw = 10,8 m/s2; v = 7,6 m/s c) rzut poziomy
+2.66 a) Fb/Fc = 355; b) Fb/Fc = 158          
+2.67 v = 0,7 Hz
+2.68 tga = 0,1125; a = 6°25'  
+2.69 a) Krzesełko z Anią jest w spoczynku. b) ciężkości, odśrodkowa bezwładności i sprężystości liny c) r = 4,5 m; d) tak
+2.70 a) Ft = 3 N; zwrot w górę równi; c) N = 21,3 N; nie            
+2.71 h = 27 cm 
+2.72 t = 0,83 s           
+        
+           
+

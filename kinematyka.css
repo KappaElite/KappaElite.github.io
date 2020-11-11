@@ -1,0 +1,76 @@
+body
+{
+    background-image: url(pictures/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+#tresc
+{
+    background-color: beige;
+}
+#zadanie
+{
+    
+    font-family: Tahoma;
+    font-size: 35px;
+    padding: 20px;
+        
+}
+#obrazek
+{
+    width: 500px;
+}
+#zadanie{
+    
+    
+    font-size: 20px;
+    
+    
+    
+    
+}
+#chuj{
+    width: 100%;
+    text-align: left;
+    margin: auto;
+    border: 1px solid cornflowerblue;
+    box-shadow: 10px 10px 10px cornflowerblue;
+    width: 100%;
+    background-color: white;
+}
+#full
+{
+    box-shadow: 10px 10px 10px cornflowerblue;
+    border: 2px solid cornflowerblue;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.lista
+{
+    display: inline-block;
+}
+#lista1{
+    float: left;
+}
+#lista3
+{
+    float: right;
+    direction: rtl;
+}
+#lista2
+{
+    list-style-type: none;
+}
+#todp
+{
+   
+    display: none;
+    
+}
+#lista4
+{
+    float: right;
+    direction: rtl;
+}
